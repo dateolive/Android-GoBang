@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">GoBang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chess_panel">ChessPanel</string>
+    <string name="title_activity_ai_chess_panel">AiChessPanel</string>
+    <string name="choose_chess">选择先后手</string>
+    <string name="first">先手</string>
+    <string name="second">后手</string>
+    <string name="player">玩家</string>
+    <string name="computer">电脑</string>
+
+</resources>
